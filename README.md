@@ -1,4 +1,4 @@
-# Ease Interview (Hackorbit Project)
+# Ease Interview
 
 notepad README.md
     
